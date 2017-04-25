@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "D:\\androidStudio\\IntentExoplayer\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.3.1\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    }
+]

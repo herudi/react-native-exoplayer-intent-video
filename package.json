@@ -1,0 +1,29 @@
+{
+  "name": "react-native-exoplayer-intent-video",
+  "version": "0.0.1",
+  "description": "React native video player with exoplayer, play in new intent",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herudi/react-native-exoplayer-intent-video.git"
+  },
+  "keywords": [
+    "react-native-video",
+    "react-native-exoplayer",
+    "react",
+    "react-native",
+    "video",
+    "intent",
+    "exoplayer",
+    "player"
+  ],
+  "author": "HERUDI",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/herudi/react-native-exoplayer-intent-video/issues"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.30.0"
+  },
+  "homepage": "https://github.com/herudi/react-native-exoplayer-intent-video/blob/master/README.md"
+}

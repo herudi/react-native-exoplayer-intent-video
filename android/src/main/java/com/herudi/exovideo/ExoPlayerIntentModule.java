@@ -35,9 +35,14 @@ public class ExoPlayerIntentModule extends ReactContextBaseJavaModule implements
     }
 
     @Override
-    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+    public void onActivityResult(Activity activity, int requestCode, int resultCode, Intent data) {
         if (requestCode == TAG) {
             getCurrentActivity().finish();
         }
+    }
+
+    @Override
+    public void onNewIntent(Intent intent) {
+
     }
 }

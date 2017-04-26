@@ -1,7 +1,7 @@
 {
   "name": "react-native-exoplayer-intent-video",
   "version": "0.0.1",
-  "description": "React native video player with exoplayer, play in new intent",
+  "description": "React native video player with exoplayer, play in new intent android only",
   "main": "index",
   "repository": {
     "type": "git",

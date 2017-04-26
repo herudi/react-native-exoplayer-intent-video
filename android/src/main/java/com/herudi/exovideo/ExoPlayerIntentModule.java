@@ -20,11 +20,13 @@ public class ExoPlayerIntentModule extends ReactContextBaseJavaModule implements
     }
 
     @ReactMethod
-    public void showVideoPlayer(String url) {
+    public void showVideoPlayer(String url, String title, String sub) {
         Activity currentActivity = getCurrentActivity();
         if (currentActivity != null) {
             Intent i = new Intent(this.getReactApplicationContext(),PlayerActivity.class);
             i.putExtra("url", url);
+            i.putExtra("title", title);
+            i.putExtra("subtitle", sub);
             currentActivity.startActivityForResult(i, TAG);
         }
     }
